@@ -1,0 +1,1 @@
+include ':app', ':mtm', ':pgp', ':xchat'//, ':libs:openpgp-api-lib', ':libs:MemorizingTrustManager'
