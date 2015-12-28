@@ -4,7 +4,7 @@ A library/module directly forked from the project [conversations](https://github
 
 ## How to add this module to any existing project?
 
-1.Colon/download the sources.
+1.Clone/download the sources.
 
 2.Import xchat module to your project.
 
