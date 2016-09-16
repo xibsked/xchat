@@ -1,6 +1,6 @@
 # xChat
 A library/module directly forked from the project [conversations](https://github.com/siacs/Conversations) .
-![screenshots](https://raw.githubusercontent.com/siacs/Conversations/master/screenshots.png)
+![screenshots](//lh3.googleusercontent.com/Jhq76egYE6jDs8InQRY2xz_Y2PEJ04lhiy1DKdH1ktgcJFVt-ZdtI-37t3F3Y3N0yOw=h310-rw)
 
 ## How to add this module to any existing project?
 
